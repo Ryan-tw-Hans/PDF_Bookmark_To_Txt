@@ -1,0 +1,30 @@
+1 Introduction	Page.5
+2 Dimensionality reduction	Page.6
+3 Techniques for dimensionality reduction	Page.7
+	3.1 Traditional linear techniques	Page.7
+		3.1.1 PCA 主成份分析	Page.7
+		3.1.2 LDA	Page.8
+	3.2 Global nonlinear techniques	Page.8
+		3.2.1 MDS	Page.8
+		3.2.2 SPE	Page.9
+		3.2.3 Isomap	Page.9
+		3.2.4 FastMVU	Page.10
+		3.2.5 Kernel PCA	Page.10
+		3.2.6 GDA	Page.11
+		3.2.7 Diffusion maps	Page.12
+		3.2.8 SNE	Page.13
+		3.2.9 Multilayer autoencoders	Page.13
+	3.3 Local nonlinear techniques	Page.14
+		3.3.1 LLE	Page.14
+		3.3.2 Laplacian Eigenmaps	Page.15
+		3.3.3 Hessian LLE	Page.16
+		3.3.4 LTSA	Page.16
+	3.4 Extensions and variants of local nonlinear techniques	Page.17
+		3.4.1 Conformal Eigenmaps	Page.17
+		3.4.2 MVU	Page.18
+		3.4.3 LPP	Page.18
+		3.4.4 NPE	Page.19
+		3.4.5 LLTSA	Page.19
+	3.5 Global alignment of linear models	Page.19
+4 Techniques for intrinsic dimensionality estimation	Page.22
+5 Examples	Page.26
